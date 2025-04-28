@@ -14,8 +14,9 @@ This project provides an interactive web-based visualization of mental health st
 The project uses D3.js to create fully interactive visualizations, allowing users to:
 - Select the year
 - Change the number of countries displayed (Top 10, 20, 30, or All)
-- Play/Pause automatic year transition
-
+- This Automatic Transition helps us see the Barchart and scatterplot data for all the years for top 10, top 20 and top 30 countries.
+- The Visualization changes every 10 secs starting from the 1990 and will end at 2017 for top 120 countries and continue again after the year 2017.
+- Play/Pause automatic year transition, which enables us to pause the transition and access it manually too.
 ---
 
 ## How to Run the Project
